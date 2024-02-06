@@ -6,7 +6,7 @@ See [#22428](https://github.com/cypress-io/cypress/issues/22428) issue.
 
 Read the blog post [Fix For Cypress Plugin Events](https://glebbahmutov.com/blog/fix-for-cypress-plugin-events/).
 
-## Install
+## Install 
 
 Add this NPM package as a dev dependency
 
